@@ -18,5 +18,6 @@ This leads to my elevator pitch - https://docs.google.com/document/d/1tiSmba7rUc
 
 So far in my process I have made a working calendar that uses pre-input events to display them for different days that are chosen. I am trying to get the form or survey to make the responses go to the right place in order to go and then come back to put it into the calendar and show a new event.
 
-Skills
+### Skills
+
 Some of the skills that I have is good at understanding physics and the logic behind things of why something happens. So the differences between some forces, how they are affected and different parts that would be important depending on the task.
